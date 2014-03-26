@@ -9,3 +9,5 @@ Deliverables created as part of training classes, speaking engagements, etc. The
 A resume, lightly updated as to recent work, but more skewed toward consulting experience over recent technology-related work, such as cloud development, JavaScript, Rails, Git, iOS, PostgreSQL, Heroku, Amazon web services, HTML/CSS/Bootstrap, etc.
 
 A partially-written book on the topic of business management of IT, not badly written but in need of completion
+
+These are all PDF documents. To read them, you can do a git clone to copy the tree down (if you are configured for git access to GitHub). Or, you can right-click and select "Open in New Tab", and then "View Raw", which will download the PDF. Once it's done downloading, you can open the PDF as normal (and from there, you can save locally if desired).
