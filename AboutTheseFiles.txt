@@ -1,0 +1,11 @@
+About These Files
+
+This directory contains past deliverables of a few different categories:
+
+Consulting deliverables created within the context of consulting projects. In this case, to protect confidentiality of client information, the client names have been removed AND the files are sufficiently old enough that no meaningful inside information would be obtained if the client name were somehow deduced
+
+Deliverables created as part of training classes, speaking engagements, etc. These are not client-sensitive, but are protected IP as to copyrights
+
+A resume, lightly updated as to recent work, but more skewed toward consulting experience over recent technology-related work, such as cloud development, JavaScript, Rails, Git, iOS, PostgreSQL, Heroku, Amazon web services, HTML/CSS/Bootstrap, etc.
+
+A partially-written book on the topic of business management of IT, not badly written but in need of completion
